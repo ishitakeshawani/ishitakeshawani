@@ -27,6 +27,6 @@
 <a href="https://twitter.com/ishitakeshawani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ishitakeshawani" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/ishitakeshawani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ishitakeshawani" height="30" width="30" /></a>
 <a href="https://instagram.com/ishitakeshawani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ishitakeshawani" height="30" width="30" /></a>
-<a href="https://medium.com/https://medium.com/@keshwaniishita054" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="https://medium.com/@keshwaniishita054" height="30" width="30" /></a>
+<a href="https://medium.com/@keshwaniishita054" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="https://medium.com/@keshwaniishita054" height="30" width="30" /></a>
 <a href="https://www.youtube.com/channel/UC-YEo9jyWj6oNrPRxgM1asw/featured?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ishitakeshwani" height="30" width="30" /></a>
 </p>
