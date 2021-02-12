@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ishita Keshawani</h1>
 <h3 align="center">I am pursuing Computer Engineering from Gujarat Technological University.</h3>
 
-- 🔭 I’m currently working on [Give More](https://github.com/Ishita1608/Give-More)
 
-- 🌱 I’m currently learning **Flutter,Competitive Programming.**
+- 🌱 I’m currently learning **React,Data Structures and Algorithms.**
+
+- 🎯 I'm Working on Improving my Problem Solving skills.
 
 - 👨‍💻 All of my projects are available at [https://ishitakeshawani.netlify.com/](https://ishitakeshawani.netlify.com/)
 
 - 📝 I regulary write articles on [https://medium.com/@keshwaniishita054](https://medium.com/@keshwaniishita054)
 
-- 💬 Ask me about **Flutter,Java,Music**
+- 💬 Ask me about **Flutter,React,Blogs,Music.**
 
 - 📫 How to reach me **ishitakeshawani@gmail.com**
 
@@ -19,7 +20,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.keshwaniishita054.vercel.app/api/top-langs/?username=ishitakeshawani&layout=compact&hide=html" alt="ishitakeshawani" /></p>
+<p align="left"> <img src="https://user-images.githubusercontent.com/50510726/107740654-a8ef1d00-6d31-11eb-8847-516b42837ed3.png" alt="cplusplus" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.keshwaniishita054.vercel.app/api/top-langs/?username=ishitakeshawani&layout=compact&hide=html" alt="ishitakeshawani" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishitakeshawani&count_private=true&theme=radical" alt="ishitakeshawani" /></p>
 
