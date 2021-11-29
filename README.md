@@ -14,7 +14,7 @@
 
 <h3> 📫 How to reach me ishitakeshawani@gmail.com</h3>
 
-<h3> ⚡ Fun fact **I talk lot.</h3>
+<h3> ⚡ Fun fact I talk lot.</h3>
 
 
 <!-- BLOG-POST-LIST:START -->
