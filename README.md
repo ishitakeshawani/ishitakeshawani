@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Ishita Keshawani</h1>
-<h3 align="center">I am pursuing Computer Engineering from Gujarat Technological University.</h3>
+<h3> 💻 I do Frontend Development and Technical Writing.</h3>
 
 
-- 🌱 I’m currently learning **React,Data Structures and Algorithms.**
+<h3> 🌱 I’m currently learning Full-stack Web Development.</h3>
 
-- 🎯 I'm Working on Improving my Problem Solving skills.
+<h3> 🎯 I'm Working on Improving my Problem Solving skills.</h3>
 
-- 👨‍💻 All of my projects are available at [https://ishitakeshawani.netlify.com/](https://ishitakeshawani.netlify.com/)
+<h3> 👨‍💻 All of my projects are available at https://ishitakeshawani.netlify.com/</h3>
 
-- 📝 I regulary write articles on [https://medium.com/@keshwaniishita054](https://medium.com/@keshwaniishita054)
+<h3> 📝 I regulary write articles on https://medium.com/@keshwaniishita054</h3>
 
-- 💬 Ask me about **Flutter,React,Blogs,Music.**
+<h3> 💬 Ask me about Frontend,React,Blogs,Music.</h3>
 
-- 📫 How to reach me **ishitakeshawani@gmail.com**
+<h3> 📫 How to reach me ishitakeshawani@gmail.com</h3>
 
-- ⚡ Fun fact **I talk lot.**
+<h3> ⚡ Fun fact **I talk lot.</h3>
 
 
 <!-- BLOG-POST-LIST:START -->
