@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishita Keshawani</h1>
 <h3> 💻 I do Full stack web Development and build projects.</h3>
 
-<h3> 💬 Ask me about Frontend,React,Blogs,Music.</h3>
+<h3> 💬 Ask me about Frontend,JavaScript,Blogs,Music.</h3>
 
 
 <!-- BLOG-POST-LIST:START -->
